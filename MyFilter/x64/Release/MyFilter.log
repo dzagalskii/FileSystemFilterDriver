@@ -1,0 +1,26 @@
+﻿  Building 'MyFilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\MyFilter.inf
+  Stamping [Version] section with DriverVer=10/13/2019,23.13.34.121
+C:\Users\dzaga\Desktop\MyFilter\MyFilter\MyFilter.inf : warning 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+C:\Users\dzaga\Desktop\MyFilter\MyFilter\MyFilter.inf(28-28): warning 1421: Section [DefaultInstall] should have an architecture decoration.
+C:\Users\dzaga\Desktop\MyFilter\MyFilter\MyFilter.inf(39-39): warning 1421: Section [DefaultUninstall] should have an architecture decoration.
+C:\Users\dzaga\Desktop\MyFilter\MyFilter\MyFilter.inf(78-78): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  MyFilter.c
+  MyFilter.vcxproj -> C:\Users\dzaga\Desktop\MyFilter\x64\Release\MyFilter.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dzaga\Desktop\MyFilter\x64\Release\MyFilter.sys
+  
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\dzaga\Desktop\MyFilter\x64\Release\MyFilter\myfilter.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dzaga\Desktop\MyFilter\x64\Release\MyFilter\myfilter.cat
+  
